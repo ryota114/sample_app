@@ -1,5 +1,9 @@
 # README
 
+# DMM WEBCAMP コンテンツ【Railｓ を学ぼう】
+
+DMM WEBCAMP の学習コンテンツ Rails を学ぼうの作品です。  
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
