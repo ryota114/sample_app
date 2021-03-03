@@ -1,6 +1,6 @@
 # README
 
-# DMM WEBCAMP コンテンツ【Railｓ を学ぼう】
+# DMM WEBCAMP コンテンツ【Rails を学ぼう】
 
 DMM WEBCAMP の学習コンテンツ Rails を学ぼうの作品です。  
 
