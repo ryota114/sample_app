@@ -2,7 +2,11 @@
 
 # DMM WEBCAMP コンテンツ【Rails を学ぼう】
 
+<<<<<<< HEAD
 DMM WEBCAMP の学習コンテンツ Rails を学ぼうの作品です。
+=======
+DMM WEBCAMP の学習コンテンツ Rails を学ぼうの作品です。  
+>>>>>>> b83322d1ba598048362db352284ce45768008015
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
