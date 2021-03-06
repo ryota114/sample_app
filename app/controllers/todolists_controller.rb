@@ -24,6 +24,15 @@ class TodolistsController < ApplicationController
     @list = List.find(params[:id])
   end
 
+  def edit
+    @list = List.find(params[:id])
+  end
+  def update
+    list = List.find(params[:id])
+    list.update(list_params)
+    redirect_to todolist_path(list.id)
+  end
+
   private #privateから下はコントローラーの中でしか呼び出せない。よってプログラムの下に書く
   # ストロングパラメータ
   def list_params
